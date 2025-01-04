@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **suhailsubair0406@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I7RYUwxKu9W7q6qcJXR1w01_YPEkt1Bh/view?usp=drive_link](https://drive.google.com/file/d/1I7RYUwxKu9W7q6qcJXR1w01_YPEkt1Bh/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I7RYUwxKu9W7q6qcJXR1w01_YPEkt1Bh/view?usp=drive_link](https://drive.google.com/file/d/1s5LRD3gcqGH9TIc60N0mLlh5aVcY0tDY/view?usp=sharing)
 
 - ⚡ Fun fact **"I turn coffee and code into seamless web experiences!" ☕💻**
 
