@@ -1,32 +1,43 @@
-👋 Hi, I'm Suhail Subair — a Full Stack Developer passionate about crafting scalable web and mobile applications.
+## 👋 Hi, I'm Suhail Subair
 
-🛠️ Tech Stack:
-- **Languages**: JavaScript, TypeScript  
-- **Frontend**: React.js, React Native, Tailwind CSS  
-- **Backend**: Node.js, Express.js, Bun.js  
-- **Database**: MongoDB, PostgreSQL  
-- **Cloud & DevOps**: Google Cloud Platform (GCP), AWS, EC2, Nginx  
-- **State Management**: Redux, TanStack Query  
-- **Tools & Others**: Postman, GitHub, JWT, Agile
-
-🚀 Continuously learning and building clean, efficient, and real-time digital experiences.
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=ffffff&point=44ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhail-subair/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhailsubair04@gmail.com) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suhailsubair007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Suhailsubair007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Suhailsubair007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a Full Stack Developer passionate about crafting scalable web and mobile applications using modern technologies and clean architecture.
 
 ---
+
+### 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, C, SQL  
+**Frontend:** React.js, React Native, Tailwind CSS  
+**Backend:** Node.js, Express.js, Bun.js  
+**Databases:** MongoDB, PostgreSQL  
+**Cloud & DevOps:** GCP, AWS, Docker, Kubernetes, Nginx, Terraform, Ansible  
+**Tools:** Postman, GitHub, Redux, TanStack Query, JWT, Agile, CI/CD
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhail-subair/) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suhailsubair04@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Suhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhailsubair007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Suhailsubair007&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&theme=dark&hide_border=false&layout=compact&count_private=true)
+
+</div>
+
+---
+
+### 🚀 Top Contributed Repositories
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Suhailsubair007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### 📈 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=Suhailsubair007&icon=0&color=1)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
