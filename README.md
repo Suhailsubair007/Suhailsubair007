@@ -1,13 +1,13 @@
 👋 Hi, I'm Suhail Subair — a Full Stack Developer passionate about crafting scalable web and mobile applications.
 
 🛠️ Tech Stack:
-- **Languages**: JavaScript, TypeScript, Python, C, SQL  
+- **Languages**: JavaScript, TypeScript  
 - **Frontend**: React.js, React Native, Tailwind CSS  
 - **Backend**: Node.js, Express.js, Bun.js  
 - **Database**: MongoDB, PostgreSQL  
-- **Cloud & DevOps**: Google Cloud Platform (GCP), AWS, EC2, Docker, Kubernetes, Nginx, Terraform, Ansible  
+- **Cloud & DevOps**: Google Cloud Platform (GCP), AWS, EC2, Nginx  
 - **State Management**: Redux, TanStack Query  
-- **Tools & Others**: Postman, GitHub, CI/CD Pipelines, JWT, Agile
+- **Tools & Others**: Postman, GitHub, JWT, Agile
 
 🚀 Continuously learning and building clean, efficient, and real-time digital experiences.
 
