@@ -39,5 +39,6 @@ I'm a Full Stack Developer passionate about crafting scalable web and mobile app
 ---
 
 ### 📈 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=Suhailsubair007&icon=0&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{Suhailsubair007}/count.svg)
+
 
