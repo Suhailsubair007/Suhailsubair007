@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Suhail Subair<br>💻 Full-Stack Developer | MERN Enthusiast<br>🔭 I'm currently working on expanding my MERN stack expertise and building Event Hive, an event booking platform with real-time features<br>👯 I'm looking to collaborate on innovative web applications using React.js and Node.js<br>🤝 I'm looking for help with advanced TypeScript implementations and Clean Architecture patterns<br>🌱 I'm currently learning AWS infrastructure, Socket.io for real-time applications, and advanced state management<br>💬 Ask me about MERN stack development, RESTful API design, and e-commerce implementations<br>⚡ Fun fact: My first commercial project (Cozway) was an e-commerce platform handling real payments integration
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=ffffff&point=44ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhail-subair/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhailsubair04@gmail.com) 
@@ -43,7 +44,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Suhailsubair007&icon=0&color=1)](https://visitcount.itsvg.in)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=ffffff&point=44ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
