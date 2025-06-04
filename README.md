@@ -32,11 +32,6 @@ I'm a Full Stack Developer passionate about crafting scalable web and mobile app
 
 ---
 
-### 🚀 Top Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Suhailsubair007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ### 📈 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Suhailsubair007}/count.svg)
