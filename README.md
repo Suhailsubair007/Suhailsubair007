@@ -5,12 +5,12 @@ I'm a Full Stack Developer passionate about crafting scalable web and mobile app
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** JavaScript, TypeScript, Python, C, SQL  
-**Frontend:** React.js, React Native, Tailwind CSS  
+**Languages:** JavaScript, TypeScript, Python. 
+**Frontend:** React.js, React Native, Tailwind CSS 
 **Backend:** Node.js, Express.js, Bun.js  
 **Databases:** MongoDB, PostgreSQL  
-**Cloud & DevOps:** GCP, AWS, Docker, Kubernetes, Nginx, Terraform, Ansible  
-**Tools:** Postman, GitHub, Redux, TanStack Query, JWT, Agile, CI/CD
+**Cloud & DevOps:** GCP, AWS, Nginx
+**Tools:** Postman, GitHub, Redux, TanStack Query, JWT, Agile, 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=ffffff&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
