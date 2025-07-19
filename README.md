@@ -2,12 +2,6 @@
 
 I'm a passionate **Full Stack Developer** focused on **TypeScript, React Native, MongoDB**, and modern backend frameworks. I thrive on building scalable, real-world web and mobile applications with clean architecture and a strong attention to design.
 
----
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=ffffff&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages:**  
@@ -30,6 +24,11 @@ GitHub, Postman, Redux, TanStack Query, JWT (Authentication), Agile methodologie
 
 ---
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=ffffff&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 💡 What I Do
 
 - **Full Stack Development** — web & mobile apps with focus on code quality  
@@ -41,8 +40,6 @@ GitHub, Postman, Redux, TanStack Query, JWT (Authentication), Agile methodologie
 ---
 
 *Building with curiosity, collaborating with passion, and always learning — let's turn ideas into impactful products!*
-
-
 
 
 
