@@ -90,9 +90,5 @@ MVC, Clean Architecture, SOLID Principles, Monorepo, Component-Based Design
 
 ---
 
-### 🧭 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{Suhailsubair007}/count.svg)
-
----
 
 ⭐ *Building with curiosity, collaborating with passion, and always learning — let’s turn ideas into impactful products!*
