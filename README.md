@@ -8,7 +8,6 @@ I love transforming ideas into **real-world applications** that are cleanly arch
 ### 🧠 About Me
 - 🚀 Currently working as a **Full Stack Developer at Ecloto Designs Pvt Ltd**
 - 💬 Previously a **MERN Stack Developer Intern at Brototype**
-- 🧩 Passionate about **Clean Architecture, Repository Pattern, and SOLID Principles**
 - ☁️ Experienced in **cloud deployments (AWS, DigitalOcean, GCP)** with **reverse proxies (Nginx, Caddy)**
 - 💡 Always exploring **new tools, scalable architectures, and developer experience optimization**
 
@@ -61,15 +60,6 @@ MVC, Clean Architecture, SOLID Principles, Monorepo, Component-Based Design
 - Integrated **Razorpay payments**, **NodeMailer notifications**, and a full **Admin Dashboard** with analytics and Chart.js visualizations.  
 - Deployed on **AWS EC2 with Nginx** for scalability and performance.  
 🔗 [Live Demo](https://cozway.vercel.app)
-
----
-
-#### 🎟️ **Event Hive — Event Booking Platform**
-**Tech Stack:** TypeScript, Node.js, React.js, MongoDB, Express.js, Tailwind CSS, Socket.io, JWT, Stripe API, Razorpay API  
-- Built a **real-time event booking platform** with secure JWT authentication and **QR code ticket scanning**.  
-- Integrated **Stripe & Razorpay** for multiple payment options and real-time **group chat** for users and organizers.  
-- Followed **Clean Architecture and SOLID principles** for scalability and maintainability.  
-🔗 [GitHub Repository](https://github.com/Suhailsubair007/Event-Hive)
 
 ---
 
