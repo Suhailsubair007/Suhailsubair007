@@ -67,7 +67,7 @@ MVC, Clean Architecture, SOLID Principles, Monorepo, Component-Based Design
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Suhailsubair007&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Suhailsubair007&theme=soft-green&hide_border=true&short_numbers=true&card_width=800&card_height=300)](https://git.io/streak-stats)
 
 </div>
 
