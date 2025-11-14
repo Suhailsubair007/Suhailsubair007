@@ -65,7 +65,17 @@ MVC, Clean Architecture, SOLID Principles, Monorepo, Component-Based Design
 
 ### 📊 GitHub Stats
 
-<div align="center"> ![Suhailsubair007's Stats](https://github-readme-stats.vercel.app/api?username=Suhailsubair007&theme=merko&show_icons=true&hide_border=true&count_private=true) ![Suhailsubair007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suhailsubair007&theme=merko&hide_border=true) ![Suhailsubair007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&theme=merko&show_icons=true&hide_border=true&layout=compact) </div>
+<div align="center">
+
+![Suhailsubair007's Stats](https://github-readme-stats.vercel.app/api?username=Suhailsubair007&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+![Suhailsubair007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suhailsubair007&theme=merko&hide_border=true)
+
+![Suhailsubair007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+---
 
 ---
 
