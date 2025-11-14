@@ -15,18 +15,18 @@
 
 ---
 
-## 🚀 About Me
+### About Me
 
 Full Stack Developer at **Ecloto Designs** with expertise in building **cross-platform mobile apps** and **scalable backend systems**. Passionate about clean architecture, performance optimization, and delivering seamless user experiences.
 
-- 💼 Currently architecting **React Native + Bun.js** full-stack solutions
-- 🔥 Reduced API response times by **40%** through optimized MongoDB aggregations
-- ☁️ Experienced with **AWS, DigitalOcean, GCP** deployments
-- 🌐 Building real-time features with **WebSockets** and **Firebase Cloud Messaging**
+-  Currently architecting **React Native + Bun.js** full-stack solutions
+-  Reduced API response times by **40%** through optimized MongoDB aggregations
+-  Experienced with **AWS, DigitalOcean, GCP** deployments
+-  Building real-time features with **WebSockets** and **Firebase Cloud Messaging**
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend:** React • React Native • Expo • Redux • NativeWind • Tailwind CSS
 
@@ -38,9 +38,9 @@ Full Stack Developer at **Ecloto Designs** with expertise in building **cross-pl
 
 ---
 
-## 🧩 Featured Project
+### Featured Project
 
-### 🛍️ [Cozway — E-commerce Platform](https://cozway.vercel.app)
+### [Cozway — E-commerce Platform](https://cozway.vercel.app)
 
 Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT), Razorpay payments, admin dashboard with analytics, and Chart.js visualizations.
 
@@ -50,7 +50,7 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 <div align="center">
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Suhailsubair007&theme=soft-green&hide_border=true&short_numbers=true&card_width=1000&card_height=200)](https://git.io/streak-stats)
 
