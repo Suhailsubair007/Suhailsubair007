@@ -73,8 +73,6 @@ MVC, Clean Architecture, SOLID Principles, Monorepo, Component-Based Design
 
 ---
 
----
-
 ### 📈 Activity Graph
 
 [![Suhail’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=00ff04&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
