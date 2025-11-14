@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhail-subair/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devb.io/Suhailsubair007)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1FDAF1xKMpqQIT2swM9sTIh8rMdJtqS-m/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhailsubair04@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhailsubair007)
 
 </div>
 
@@ -35,16 +35,6 @@ Full Stack Developer at **Ecloto Designs** with expertise in building **cross-pl
 **DevOps & Cloud:** AWS • DigitalOcean • GCP • Nginx • Caddy • PM2 • Cloudflare R2
 
 **Tools:** Git • Postman • Firebase • EAS Build • Figma
-
----
-
-## 💼 Experience
-
-**Full Stack Developer** @ Ecloto Designs Pvt Ltd  
-*April 2025 – Present | Kochi, India*
-- Architected complete backend with **Bun.js + MongoDB**, achieving **40% faster** API responses
-- Built cross-platform **React Native Expo** app with real-time chat and push notifications
-- Deployed production infrastructure on **DigitalOcean** with Caddy and Cloudflare R2
 
 ---
 
