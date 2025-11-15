@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Suhail Subair
 
-### Full Stack Developer | React • React Native • Bun.js • • Node.js • Express • MongoDB
+### Full Stack Developer | React Native •  React  • Bun.js • Node.js • Express • MongoDB
 
 *Building scalable, real-world applications that bridge design and engineering*
 
