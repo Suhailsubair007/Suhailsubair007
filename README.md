@@ -54,7 +54,7 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Suhailsubair007&theme=soft-green&hide_border=true&short_numbers=true&card_width=1000&card_height=200)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Suhail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=ffffff&line=00ff04&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
