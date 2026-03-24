@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=200&section=header&text=Suhail%20Subair&fontSize=42&fontColor=26a641&fontAlignY=35&desc=Lead%20Software%20Engineer%20%40%20Deelo&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=220&section=header&text=Suhail%20Subair&fontSize=50&fontColor=26a641&fontAlignY=32&desc=Lead%20Software%20Engineer%20%40%20Deelo&descSize=20&descColor=8b949e&descAlignY=52&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=26A641&center=true&vCenter=true&random=false&width=750&lines=Building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;React+Native+%E2%80%A2+Bun.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Architecting+Scalable+Mobile-First+Solutions;Leading+Engineering+Teams+%26+Shipping+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=26A641&center=true&vCenter=true&random=false&width=750&lines=Building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Architecting+Scalable+Mobile-First+Solutions;Leading+Engineering+Teams+%26+Shipping+Products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,13 +15,21 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="28"> About Me
 
-> Lead Software Engineer at **[Deelo](https://deelo.in)** — building Kerala's on-demand local services & delivery platform, connecting users with verified professionals across 8+ cities.
+```yaml
+name: Suhail Subair
+role: Lead Software Engineer
+company: Deelo (deelo.in)
+location: Kottayam, Kerala
+focus: Mobile-first architecture & scalable backend systems
+```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=8b949e&langs_count=6" width="320" />
 
-- Leading engineering at **Deelo** across mobile & backend
+- Leading engineering at **[Deelo](https://deelo.in)** across mobile & backend
 - Architecting cross-platform **Android & iOS** applications
 - Reduced API response times by **40%** through query optimizations
 - Building real-time features with **WebSockets**
@@ -30,9 +38,9 @@
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Core Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Core Skills
 
 <div align="center">
 <a href="https://skillicons.dev">
@@ -40,11 +48,13 @@
 </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
-### Frontend & Mobile
+<details>
+<summary><b>Frontend & Mobile</b></summary>
+<br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,7 +65,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+</details>
+
+<details>
+<summary><b>Backend & Database</b></summary>
+<br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
@@ -66,7 +80,11 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### DevOps & Cloud
+</details>
+
+<details>
+<summary><b>DevOps & Cloud</b></summary>
+<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +94,11 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
-### Tools & Services
+</details>
+
+<details>
+<summary><b>Tools & Services</b></summary>
+<br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -84,25 +106,43 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![EAS Build](https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white)
 
----
+</details>
 
-## Deelo — On-Demand Local Services Platform
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Deelo
 
 <div align="center">
 
-> Kerala's trusted platform for local services & delivery.
+<table>
+<tr>
+<td align="center" width="100%">
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-deelo.in-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deelo.in/)
-[![Join as Freelancer](https://img.shields.io/badge/Join_Deelo-Freelancer_Onboarding-26a641?style=for-the-badge&logo=handshake&logoColor=white)](https://join.deelo.in/)
+<img src="https://img.shields.io/badge/DEELO-On--Demand_Local_Services-26a641?style=for-the-badge&labelColor=0d1117" />
 
-[![Play Store](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.deelo.app&pcampaignid=web_share)
-[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/qa/app/deelo/id6741783815)
+<br/><br/>
+
+Kerala's trusted platform for local services & delivery.
+
+<br/>
+
+[![Website](https://img.shields.io/badge/deelo.in-Visit_Website-FF6B00?style=for-the-badge&logo=safari&logoColor=white)](https://deelo.in/)
+[![Join](https://img.shields.io/badge/join.deelo.in-Become_a_Freelancer-26a641?style=for-the-badge&logo=handshake&logoColor=white)](https://join.deelo.in/)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download_App-26a641?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.deelo.app&pcampaignid=web_share)
+[![App Store](https://img.shields.io/badge/App_Store-Download_App-26a641?style=for-the-badge&logo=app-store&logoColor=white&labelColor=0d1117)](https://apps.apple.com/qa/app/deelo/id6741783815)
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Featured Project
 
@@ -120,7 +160,7 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## GitHub Stats
 
@@ -128,6 +168,10 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhailsubair007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=8b949e&ring_color=26a641" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Suhailsubair007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=26a641&fire=26a641&currStreakLabel=26a641&sideLabels=8b949e&dates=8b949e" />
+
+<br/>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Suhailsubair007&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -141,14 +185,18 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 *Building Kerala's local services ecosystem — one commit at a time.*
 
-<img src="https://komarev.com/ghpvc/?username=Suhailsubair007&color=26a641&style=flat-square&label=Profile+Views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Suhailsubair007&color=26a641&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=100&section=footer" />
