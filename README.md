@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Suhail%20Subair&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Lead%20Software%20Engineer%20%40%20Deelo&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=200&section=header&text=Suhail%20Subair&fontSize=42&fontColor=26a641&fontAlignY=35&desc=Lead%20Software%20Engineer%20%40%20Deelo&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;React+Native+%E2%80%A2+Bun.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Architecting+Scalable+Mobile-First+Solutions;Leading+Engineering+Teams+%26+Shipping+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=26A641&center=true&vCenter=true&random=false&width=750&lines=Building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;React+Native+%E2%80%A2+Bun.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Architecting+Scalable+Mobile-First+Solutions;Leading+Engineering+Teams+%26+Shipping+Products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 > Lead Software Engineer at **[Deelo](https://deelo.in)** — building Kerala's on-demand local services & delivery platform, connecting users with verified professionals across 8+ cities.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=8b949e&langs_count=6" width="320" />
 
 - Leading engineering at **Deelo** across mobile & backend
 - Architecting cross-platform **Android & iOS** applications
@@ -126,12 +126,12 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhailsubair007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Suhailsubair007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhailsubair007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=8b949e&ring_color=26a641" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Suhailsubair007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=26a641&fire=26a641&currStreakLabel=26a641&sideLabels=8b949e&dates=8b949e" />
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=0d1117&color=8b949e&line=58a6ff&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suhailsubair007/Suhailsubair007/output/github-contribution-grid-snake-dark.svg" />
@@ -147,8 +147,8 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 *Building Kerala's local services ecosystem — one commit at a time.*
 
-<img src="https://komarev.com/ghpvc/?username=Suhailsubair007&color=58a6ff&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Suhailsubair007&color=26a641&style=flat-square&label=Profile+Views" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=100&section=footer" />
