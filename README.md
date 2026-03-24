@@ -21,12 +21,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailsubair007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320" />
 
-- Leading engineering for **Deelo's** mobile & backend systems
-- Architecting **React Native + Bun.js** full-stack solutions
-- Reduced API response times by **40%** with optimized MongoDB aggregations
-- Building real-time tracking with **WebSockets** & **FCM**
+- Leading engineering at **Deelo** across mobile & backend
+- Architecting cross-platform **Android & iOS** applications
+- Reduced API response times by **40%** through query optimizations
+- Building real-time features with **WebSockets**
 - Experienced with **AWS, DigitalOcean, GCP** deployments
-- Shipping products across **Android & iOS** platforms
+- Passionate about clean architecture & performance optimization
 
 <br clear="right"/>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-> Kerala's trusted platform for local services & delivery — connecting users with verified professionals across 8+ cities.
+> Kerala's trusted platform for local services & delivery.
 
 <br/>
 
