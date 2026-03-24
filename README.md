@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Suhail%20Subair&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Lead%20Software%20Engineer%20%40%20Deelo&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;Full+Stack+%7C+React+Native+%E2%80%A2+Bun.js+%E2%80%A2+Node.js;Architecting+Scalable+Mobile-First+Solutions;Leading+Engineering+Teams+%26+Shipping+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;React+Native+%E2%80%A2+Bun.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Architecting+Scalable+Mobile-First+Solutions;Leading+Engineering+Teams+%26+Shipping+Products)](https://git.io/typing-svg)
 
 <br/>
 
