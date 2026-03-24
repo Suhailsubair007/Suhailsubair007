@@ -56,6 +56,11 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suhailsubair007/Suhailsubair007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suhailsubair007/Suhailsubair007/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Suhailsubair007/Suhailsubair007/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
