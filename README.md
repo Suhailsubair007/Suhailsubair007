@@ -171,8 +171,8 @@ Full-featured e-commerce platform with secure authentication (OAuth2, OTP, JWT),
 
 <br/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Suhailsubair007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- If trophies don't load, the service may be temporarily down — they will auto-recover -->
+<img src="https://github-readme-stats.vercel.app/api?username=Suhailsubair007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=8b949e&ring_color=26a641&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" width="49%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Suhailsubair007&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=8b949e" width="49%" />
 
 <br/>
 
