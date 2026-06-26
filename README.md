@@ -60,8 +60,6 @@ Full-featured e-commerce with secure auth (OAuth2, OTP, JWT), Razorpay payments,
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Suhailsubair007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=26a641&fire=26a641&currStreakLabel=26a641&sideLabels=8b949e&dates=8b949e" />
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhailsubair007&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
