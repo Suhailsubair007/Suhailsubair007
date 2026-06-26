@@ -1,12 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=220&section=header&text=Suhail%20Subair&fontSize=50&fontColor=26a641&fontAlignY=32&desc=Lead%20Software%20Engineer%20%40%20Deelo&descSize=20&descColor=8b949e&descAlignY=52&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2818,100:26a641&height=260&section=header&text=Suhail%20Subair&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=%F0%9F%9A%80%20Lead%20Software%20Engineer%20%40%20Deelo%20%C2%B7%20Mobile-First%20Architect&descSize=18&descColor=e6edf3&descAlignY=56&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=26A641&center=true&vCenter=true&width=750&lines=Lead+Engineer+building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Designing+scalable%2C+mobile-first+distributed+systems)](https://git.io/typing-svg)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhail-subair/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devb.io/Suhailsubair007)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhailsubair04@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=26A641&center=true&vCenter=true&width=800&height=45&lines=Lead+Engineer+building+Deelo+%E2%80%94+Kerala's+Local+Services+Platform;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Designing+scalable%2C+mobile-first+distributed+systems)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/suhail-subair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://devb.io/Suhailsubair007"><img src="https://img.shields.io/badge/Portfolio-26a641?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:suhailsubair04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://deelo.in"><img src="https://img.shields.io/badge/Deelo-FF6B00?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open_to_Collaboration-26a641?style=flat-square&labelColor=0d1117&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Based_in-Kerala,_India-8b949e?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Suhailsubair007&color=26a641&style=flat-square&label=PROFILE+VIEWS&labelColor=0d1117" />
 
 </div>
 
@@ -70,8 +81,6 @@ Production-grade MERN e-commerce featuring secure authentication (OAuth2, OTP, J
 <br/>
 
 *Engineering Kerala's local services ecosystem — one commit at a time.*
-
-<img src="https://komarev.com/ghpvc/?username=Suhailsubair007&color=26a641&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
